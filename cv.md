@@ -1,4 +1,4 @@
-#   **Buborneva Anastasia Vlamimirovna**  #
+#   *Buborneva Anastasia Vlamimirovna*  #
 
 ##   Contacts: 
 * *anndenull@gmail.com*
