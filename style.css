@@ -60,20 +60,17 @@ code {
 h4 {
     margin-bottom: 270px;
 }
-
-}
 p:hover {
     text-shadow: 1px 1px 0 #C26483, 2px 2px 0 #C26483, 3px 3px 0 #C26483, 4px 4px 0 #C26483, 5px 5px 0 #C26483;
 }
 
- .footer{
-  
-    font-size:30px;
+.footer {
+    text-align: center;
+    font-size: 30px;
     color: #E39F81;
     text-shadow: 1px 1px 0 #AFB8FF;
- }
+}
  .footer:hover{
-  
     text-shadow: 1px 1px 0 #AFB8FF, 2px 2px 0 #AFB8FF, 3px 3px 0 #AFB8FF, 4px 4px 0 #AFB8FF, 5px 5px 0 #AFB8FF;
  }
 
@@ -82,13 +79,13 @@ ul {
     text-shadow: 1px 1px 0 #57769D;
 }
 a:link {
-    color: #EEE9E9; /* Цвет ссылок */
+    color: #EEE9E9; 
 }
 a:active {
-    color: #EEE9E9; /* Цвет активной ссылки */
+    color: #EEE9E9; 
 }
 a:visited {
-    color: #EEE9E9; /* Цвет посещенной ссылки */
+    color: #EEE9E9; 
 }
 
 ul:hover {
