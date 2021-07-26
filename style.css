@@ -65,11 +65,13 @@ p:hover {
 }
 
  .footer{
+    background-position: center;
     font-size:30px;
     color: #E39F81;
     text-shadow: 1px 1px 0 #AFB8FF;
  }
  .footer:hover{
+    background-position: center;
     text-shadow: 1px 1px 0 #AFB8FF, 2px 2px 0 #AFB8FF, 3px 3px 0 #AFB8FF, 4px 4px 0 #AFB8FF, 5px 5px 0 #AFB8FF;
  }
 
